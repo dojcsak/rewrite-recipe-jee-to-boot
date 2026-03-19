@@ -1,1 +1,1 @@
-rootProject.name = "rewrite-recipe-starter"
+rootProject.name = "rewrite-recipe-jee-to-boot"
